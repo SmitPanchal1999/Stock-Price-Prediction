@@ -4,7 +4,7 @@
 This project focuses on predicting stock prices for major companies, including Apple (AAPL), Tesla (TSLA), and Google (GOOG), using advanced forecasting models such as ARIMA and LSTM. The primary goal is to achieve accurate predictions and gain insights into stock price movements.
 
 ### Table of Contents
-[Introduction](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#introduction)
+[Introduction](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#introduction)<br>
 [Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and-exploratory-data-analysis)
 [ARIMA Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#arima-model)
 [LSTM Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#lstm-model)
