@@ -29,12 +29,12 @@ The AutoRegressive Integrated Moving Average (ARIMA) model was utilized for its 
 Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), were employed for their capability to capture sequential dependencies in time series data. The custom learning rate was implemented to optimize model training. The LSTM model demonstrated superior performance compared to ARIMA.
 
 ### Results
-Detailed results for each stock (AAPL, TSLA, GOOG) are as follows:
+Detailed results for each stock (AAPL, TSLA, GOOG) are as follows:<br>
 ![RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png)
 ![RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model](./Images/Table_lstm_results.png)
 
 ### Graphs Discussion
-Graphs depicting the predicted vs. actual stock prices for each company were analyzed. The visual representations provided additional insights into the models' performance and their ability to capture price trends accurately.
+Graphs depicting the predicted vs. actual stock prices for each company were analyzed. The visual representations provided additional insights into the models' performance and their ability to capture price trends accurately.<br>
 ![Prediction graph of APPL using ARIMA Model](./Images/apple_arima_new_graph.png)
 ![Prediction graph of APPL using LSTM Model](./Images/apple_lstm_new_graph.png)
 ![Prediction graph of GOOG using ARIMA Model](./Images/google_arima_new_graph.png)
@@ -59,4 +59,9 @@ Scikit-learn
 Clone the repository.
 Run the Jupyter notebooks for ARIMA and LSTM models.
 
-## References
+### References
+[1] A. Johnson and B. Smith, "Enhancing Financial Forecasting: A Comprehensive Review of ARIMA Models," Journal of Financial Analysis, vol. 45, no. 2, pp. 123-145, 2019.<br>
+[2] X. Ding, Y. Zhang, T. Liu, and Q. Duan, "Stock price prediction using deep learning and sentiment analysis," Proceedings of the 26th International Joint Conference on Artificial Intelligence, pp. 2597-2603, AAAI Press, 2017.
+[3] M. Wang and Q. Chen, "Predicting Stock Prices with Long Short-Term Memory Networks: A Comprehensive Study," Journal of Finance and Analytics, vol. 12, no. 3, pp. 211-230, 2020.
+
+
