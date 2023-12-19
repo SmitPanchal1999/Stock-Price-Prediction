@@ -5,7 +5,7 @@ This project focuses on predicting stock prices for major companies, including A
 
 ### Table of Contents
 [Introduction](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#introduction)<br>
-[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and)<br>
+[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/blob/main/README.md#data-preprocessing-and-eda)<br>
 [ARIMA Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#arima-model)<br>
 [LSTM Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#lstm-model)<br>
 [Results](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#results)<br>
@@ -61,7 +61,7 @@ Run the Jupyter notebooks for ARIMA and LSTM models.
 
 ### References
 [1] A. Johnson and B. Smith, "Enhancing Financial Forecasting: A Comprehensive Review of ARIMA Models," Journal of Financial Analysis, vol. 45, no. 2, pp. 123-145, 2019.<br>
-[2] X. Ding, Y. Zhang, T. Liu, and Q. Duan, "Stock price prediction using deep learning and sentiment analysis," Proceedings of the 26th International Joint Conference on Artificial Intelligence, pp. 2597-2603, AAAI Press, 2017.
+[2] X. Ding, Y. Zhang, T. Liu, and Q. Duan, "Stock price prediction using deep learning and sentiment analysis," Proceedings of the 26th International Joint Conference on Artificial Intelligence, pp. 2597-2603, AAAI Press, 2017.<br>
 [3] M. Wang and Q. Chen, "Predicting Stock Prices with Long Short-Term Memory Networks: A Comprehensive Study," Journal of Finance and Analytics, vol. 12, no. 3, pp. 211-230, 2020.
 
 
