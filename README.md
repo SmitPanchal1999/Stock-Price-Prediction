@@ -35,8 +35,8 @@ Detailed results for each stock (AAPL, TSLA, GOOG) are as follows:
 
 ### Graphs Discussion
 Graphs depicting the predicted vs. actual stock prices for each company were analyzed. The visual representations provided additional insights into the models' performance and their ability to capture price trends accurately.
-![Prediction graph of APPL using ARIMA Model](./Images/apple_arima_new_graph.png*My caption*)
-![Prediction graph of APPL using LSTM Model](./Images/apple_lstm_new_graph.png)
+![Prediction graph of APPL using ARIMA Model](./Images/apple_arima_new_graph.png "Prediction graph of APPL using ARIMA Model")
+![Prediction graph of APPL using LSTM Model](./Images/apple_lstm_new_graph.png "Prediction graph of APPL using LSTM Model")
 ![Prediction graph of GOOG using ARIMA Model](./Images/google_arima_new_graph.png)
 ![Prediction graph of GOOG using LSTM Model](./Images/google_lstm_new_graph.png)
 ![Prediction graph of TSLA using ARIMA Model](./Images/tesla_arima_new_graph.png)
