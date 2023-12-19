@@ -5,7 +5,7 @@ This project focuses on predicting stock prices for major companies, including A
 
 ### Table of Contents
 [Introduction](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#introduction)<br>
-[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and-exploratory-data-analysis)<br>
+[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and)<br>
 [ARIMA Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#arima-model)<br>
 [LSTM Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#lstm-model)<br>
 [Results](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#results)<br>
@@ -30,15 +30,13 @@ Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN)
 
 ### Results
 Detailed results for each stock (AAPL, TSLA, GOOG) are as follows:
-![RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png)<br>RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model
-![RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model](./Images/Table_lstm_results.png)<br> RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model
+![RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png)
+![RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model](./Images/Table_lstm_results.png)
 
 ### Graphs Discussion
 Graphs depicting the predicted vs. actual stock prices for each company were analyzed. The visual representations provided additional insights into the models' performance and their ability to capture price trends accurately.
 ![Prediction graph of APPL using ARIMA Model](./Images/apple_arima_new_graph.png)
-Prediction graph of APPL using ARIMA Model
 ![Prediction graph of APPL using LSTM Model](./Images/apple_lstm_new_graph.png)
-Prediction graph of APPL using ARIMA Model
 ![Prediction graph of GOOG using ARIMA Model](./Images/google_arima_new_graph.png)
 ![Prediction graph of GOOG using LSTM Model](./Images/google_lstm_new_graph.png)
 ![Prediction graph of TSLA using ARIMA Model](./Images/tesla_arima_new_graph.png)
