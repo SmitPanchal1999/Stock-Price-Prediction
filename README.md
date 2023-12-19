@@ -5,16 +5,16 @@ This project focuses on predicting stock prices for major companies, including A
 
 ### Table of Contents
 [Introduction](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#introduction)<br>
-[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and-exploratory-data-analysis)
-[ARIMA Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#arima-model)
-[LSTM Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#lstm-model)
-[Results](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#results)
-[Graphs Discussion](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#graphs-discussion)
-[Conclusion](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#conclusion)
-[Future Work](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#future-work)
-[Technologies Used](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#technologies-used)
-[How to Run the Code](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#how-to-run-the-code)
-[References](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#references)
+[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and-exploratory-data-analysis)<br>
+[ARIMA Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#arima-model)<br>
+[LSTM Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#lstm-model)<br>
+[Results](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#results)<br>
+[Graphs Discussion](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#graphs-discussion)<br>
+[Conclusion](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#conclusion)<br>
+[Future Work](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#future-work)<br>
+[Technologies Used](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#technologies-used)<br>
+[How to Run the Code](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#how-to-run-the-code)<br>
+[References](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#references)<br>
 
 ### Introduction
 Stock price prediction is a critical aspect of financial analysis, helping investors make informed decisions. This project explores the use of ARIMA and LSTM models for accurate predictions, leveraging historical stock data.
@@ -30,8 +30,8 @@ Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN)
 
 ### Results
 Detailed results for each stock (AAPL, TSLA, GOOG) are as follows:
-[RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png)
-![RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model](./Images/Table_lstm_results.png) Table LSTM results
+![RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png)<br>RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model
+![RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model](./Images/Table_lstm_results.png)<br> RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model
 
 ### Graphs Discussion
 Graphs depicting the predicted vs. actual stock prices for each company were analyzed. The visual representations provided additional insights into the models' performance and their ability to capture price trends accurately.
