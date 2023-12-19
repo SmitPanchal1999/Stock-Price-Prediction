@@ -5,7 +5,7 @@ This project focuses on predicting stock prices for major companies, including A
 
 ### Table of Contents
 [Introduction](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#introduction)
-[Data Preprocessing and Exploratory Data Analysis (EDA)](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and-exploratory-data-analysis-(EDA))
+[Data Preprocessing and Exploratory Data Analysis](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#data-preprocessing-and-exploratory-data-analysis)
 [ARIMA Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#arima-model)
 [LSTM Model](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#lstm-model)
 [Results](https://github.com/SmitPanchal1999/Stock-Price-Prediction/tree/main?tab=readme-ov-file#results)
@@ -30,7 +30,7 @@ Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN)
 
 ### Results
 Detailed results for each stock (AAPL, TSLA, GOOG) are as follows:
-![RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png) Table ARIMA results
+[RMSE & MAPE metrics of APPL, TSLA, and GOOG using ARIMA Model](./Images/Table_arima_results.png)
 ![RMSE & MAPE metrics of APPL, TSLA, and GOOG using LSTM Model](./Images/Table_lstm_results.png) Table LSTM results
 
 ### Graphs Discussion
